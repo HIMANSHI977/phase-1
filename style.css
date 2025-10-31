@@ -1,7 +1,33 @@
 #one{
     background-color: rgba(3, 107, 102, 0.589);
+    font-size: x-large;
+    padding: 5px;
+    margin: 0 10px;
+  display: flex;
+  align-items: center;
+  height: 120px;
+  border: 1px solid black;
+gap: 100px;
+
 }
+
 a{
-    text-decoration: none;
     
+    color: black;
 }
+img{
+    border-radius: 50%;
+}
+#sweet{
+    font-weight: 300px;
+    text-align:center;
+    justify-content: end;
+    height: 40px;
+}
+#color{
+font-family: sans-serif,Arial, Helvetica, sans-serif;
+background-image:url(https://png.pngtree.com/thumb_back/fh260/back_our/20190628/ourmid/pngtree-blue-university-student-s-day-background-image_279863.jpg);
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-attachment: fixed;
+      background-position: center;}
